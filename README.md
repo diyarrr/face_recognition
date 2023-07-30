@@ -18,4 +18,3 @@ This project requires the following Python libraries to be installed:
 - OpenCV (cv2)
 - face_recognition
 
-You can install the required libraries using pip:
