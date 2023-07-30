@@ -1,8 +1,4 @@
 
-import sys
-
-sys.path.append('c:/users/diyar/appdata/local/packages/pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0/localcache/local-packages/python310/site-packages')
-
 import cv2
 import face_recognition_utils as fr_utils
 import video_capture_utils as vc_utils
